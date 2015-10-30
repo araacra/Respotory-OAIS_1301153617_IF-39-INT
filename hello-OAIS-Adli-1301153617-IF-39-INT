@@ -1,6 +1,12 @@
-program hello;
+program hello;	//Change into program APCI-1301153617
 uses crt;
 begin
   clrslr;
-  writeln("hello world");
+  writeln("hello world"); //to show string "hello" in the program layer
+  writeln ("1301153617"); //change into your NIM
+  writeln ("Muhammad Rafi Acrafora Fathin"); change into your name
+  writeln ("IF-39-INT"); change into your class
+  writeln ("adli"); change into your assistant's name
+  writeln ("1301153614"); change into your partner NIM
+  writeln ("module 6"); to show string "module 6"
 end.
