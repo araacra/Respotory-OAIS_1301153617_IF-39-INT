@@ -1,0 +1,6 @@
+program hello;
+uses crt;
+begin
+  clrslr;
+  writeln("hello world");
+end.
